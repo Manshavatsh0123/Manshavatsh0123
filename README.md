@@ -1,4 +1,4 @@
-<img src="https://github.com/Manshavatsh0123/Manshavatsh0123/blob/main/Githubimg.png.png" alt="logo" />
+<img src="https://github.com/Manshavatsh0123/Manshavatsh0123/blob/main/Mansha vatsh.jpg" alt="logo" />
 
 <h1 align="center">Hi 👋, I'm Mansha Vatsh</h1>
 <h3 align="center">Frontend & Full Stack Developer | MERN Stack</h3>
@@ -55,7 +55,7 @@ Git, GitHub, VS Code, Hoppscotch
 
 ### Internship Experience
 
-Frontend Intern – ReserveOcean Ltd. (Sep 2025 – Present)  
+Frontend Intern – ReserveOcean Ltd. (Sep 2025 – Dec 2025)  
 - Improved UI/UX of the main product website with full responsive design
 - Built reusable frontend components using React and Next.js
 - Worked closely with design and backend teams for API integration  
