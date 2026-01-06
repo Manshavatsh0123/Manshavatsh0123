@@ -1,4 +1,3 @@
-![logo](https://github.com/Manshavatsh0123/Manshavatsh0123/blob/main/Githubimg.png.png)
 <img src="https://github.com/Manshavatsh0123/Manshavatsh0123/blob/main/Githubimg.png.png" alt="logo" />
 
 <h1 align="center">Hi 👋, I'm Mansha Vatsh</h1>
@@ -12,7 +11,6 @@
 - B.Tech (ECE) student at Gautam Buddha University (2022–2026)
 - Frontend Intern at ReserveOcean Ltd. (UK-based product company)
 - Former MERN Stack Intern at Concrete Software Solutions Pvt. Ltd.
-- Currently learning Delta 6.0 – Full Stack Web Development
 - Passionate about building clean, responsive, and user-friendly web applications
 
 ---
@@ -42,7 +40,7 @@ Languages
 HTML, CSS, JavaScript, TypeScript, Java  
 
 Frontend  
-React.js, Next.js, Redux Toolkit, Tailwind CSS, Bootstrap  
+React.js, Next.js, Redux Toolkit, Tailwind CSS, Bootstrap, GSAP, Framer Motion  
 
 Backend  
 Node.js, Express.js  
@@ -94,9 +92,3 @@ GitHub: https://github.com/Manshavatsh0123/QuickStay
 - Programming in Java – NPTEL
 - Full Stack Web Development – Delta 6.0
 - Data Structures & Algorithms – Alpha Plus 5.0
-
----
-
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=manshavatsh0123&show_icons=true&locale=en&layout=compact" />
-</p>
